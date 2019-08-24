@@ -1,0 +1,11 @@
+ITEM.name = "T-1 Repeating Rifle"
+ITEM.model = Model("models/weapons/w_irifle.mdl")
+ITEM.description = "Fast firing assault rifle. Has a large mag, but doesnt fire quite fast enough to become an LMG."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 60000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_kotor_repeaten_1"

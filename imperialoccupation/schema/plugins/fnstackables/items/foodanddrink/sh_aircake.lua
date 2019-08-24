@@ -1,0 +1,16 @@
+ITEM.name = "Air Cake"
+ITEM.model = "models/neeewpackofprops/food22.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Air cake is a Delicous dessert, with a fruity center"
+ITEM.hungerAmount = 120
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 26
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 10
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.03

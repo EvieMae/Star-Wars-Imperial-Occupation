@@ -1,0 +1,16 @@
+ITEM.name = "Cheese Wheel"
+ITEM.model = "models/neeewpackofprops/food23.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Big cheese wheel for a big cheese lover."
+ITEM.hungerAmount = 120
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 20
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

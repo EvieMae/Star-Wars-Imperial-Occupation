@@ -1,0 +1,11 @@
+ITEM.name = "Mercenary Pistol"
+ITEM.model = Model("models/mercenarypistol/mercenarypistol.mdl")
+ITEM.description = "Popular amongst those who are not, the mercenaries' choice due to its hard hitting nature."
+ITEM.category = "Weapons"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 3200
+ITEM.weight = 1
+ITEM.weaponCategory = "secondary"
+ITEM.class = "tfa_mercenarypistol"

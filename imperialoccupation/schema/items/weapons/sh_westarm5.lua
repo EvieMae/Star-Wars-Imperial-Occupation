@@ -1,0 +1,11 @@
+ITEM.name = "Wester-M5"
+ITEM.model = Model("models/weapons/w_alphablaster.mdl")
+ITEM.description = "An older weapon, formerly used by clone ARC forces, now available to anyone. if you can find one,"
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 12500
+ITEM.weight = 1
+ITEM.weaponCategory = "Primary"
+ITEM.class = "tfa_swch_alphablaster"

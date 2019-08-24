@@ -1,0 +1,16 @@
+ITEM.name = "Slicehound and Potatos"
+ITEM.model = "models/neeewpackofprops/food5.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "This is a very apatizing meal made by anyone with a cooking station. Take some Slicehound meat and potatos and cook them with seasonings of your choice."
+ITEM.hungerAmount = 220
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 80
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

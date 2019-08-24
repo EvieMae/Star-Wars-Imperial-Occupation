@@ -1,0 +1,16 @@
+ITEM.name = "Spice-Jelly Rolls"
+ITEM.model = "models/neeewpackofprops/food18.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Spice-Jelly rolls are a dough rolled and cooked with Spice-Jelly"
+ITEM.hungerAmount = 110
+ITEM.thirstAmount = 80
+ITEM.category = "Food"
+ITEM.price = 28
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

@@ -1,0 +1,16 @@
+ITEM.name = "Cream Puff"
+ITEM.model = "models/neeewpackofprops/food6.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "A great dessert best used with sweet crackers."
+ITEM.hungerAmount = 75
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 14
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 10
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

@@ -1,0 +1,11 @@
+ITEM.name = "Dual Westar LEs"
+ITEM.model = Model("models/weapons/w_westar34.mdl")
+ITEM.description = "If one wasnt enough, why not two? The Westar name, now in a small package. Excels in close range combat"
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 4800
+ITEM.weight = 1
+ITEM.weaponCategory = "secondary"
+ITEM.class = "tfa_sw_westardual"

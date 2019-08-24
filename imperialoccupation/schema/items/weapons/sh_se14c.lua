@@ -1,0 +1,11 @@
+ITEM.name = "SE-14c"
+ITEM.model = Model("models/weapons/synbf3/w_se14c.mdl")
+ITEM.description = "A Three shot pistol-shotgun combo. Light and powerful, everything you could want."
+ITEM.category = "Weapons"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 36000
+ITEM.weight = 2
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_se14c"

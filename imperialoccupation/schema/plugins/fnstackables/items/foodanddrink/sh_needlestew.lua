@@ -1,0 +1,16 @@
+ITEM.name = "Needlegawps Stew"
+ITEM.model = "models/neeewpackofprops/food9.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Black eye fin fish, in a seasoned stew hot and good with boosted morale."
+ITEM.hungerAmount = 800
+ITEM.thirstAmount = 450
+ITEM.category = "Food"
+ITEM.price = 400
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

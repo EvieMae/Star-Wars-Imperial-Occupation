@@ -1,0 +1,11 @@
+ITEM.name = "Defender Sporting Pistol"
+ITEM.model = Model("models/sw_battlefront/weapons/defender_sporting_pistol.mdl")
+ITEM.description = "A cheap defensive weapon, yet despite its price, rarely used due to its poor stats."
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 2500
+ITEM.weight = 1
+ITEM.weaponCategory = "secondary"
+ITEM.class = "tfa_bf2019_defender"

@@ -1,0 +1,11 @@
+ITEM.name = "T-2 Repeating Rifle"
+ITEM.model = Model("models/weapons/w_dc15sa.mdl")
+ITEM.description = "The upgraded variant of the T-1 Repeating Rifle. Comes with a scope."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 60000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_kotor_repeaten_2"

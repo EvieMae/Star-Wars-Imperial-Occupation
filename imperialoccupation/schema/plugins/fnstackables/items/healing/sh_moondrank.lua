@@ -1,0 +1,16 @@
+ITEM.name = "Moon Drank"
+ITEM.model = "models/neeewpackofprops/drink8.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Moon Drank tastes like Moon Drank."
+ITEM.healAmount = 4
+ITEM.healSeconds = 3
+ITEM.category = "Food"
+ITEM.price = 20
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 10
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.03

@@ -1,0 +1,11 @@
+ITEM.name = "DH-17"
+ITEM.model = Model("models/weapons/synbf3/w_dl44.mdl")
+ITEM.description = "A classic rebel weapon. Functions like a pistol and an assault rifle. Picked for its reliability and ease of use."
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 15000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_dh17"

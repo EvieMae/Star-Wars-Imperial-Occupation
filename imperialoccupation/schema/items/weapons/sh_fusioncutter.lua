@@ -1,0 +1,11 @@
+ITEM.name = "Fusion Cutter"
+ITEM.model = Model("models/props/starwars/weapons/fusion_cutter.mdl")
+ITEM.description = "A tool used to repair things and stuff."
+ITEM.category = "Miscellaneous"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 800
+ITEM.weight = 1
+ITEM.weaponCategory = "misc"
+ITEM.class = "alydus_fusioncutter"

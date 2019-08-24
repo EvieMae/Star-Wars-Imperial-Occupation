@@ -1,0 +1,16 @@
+ITEM.name = "Spice Loaf"
+ITEM.model = "models/neeewpackofprops/food27.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "A loaf of dense, ground, and spiced meat that is heated to the consumer's preference."
+ITEM.hungerAmount = 150
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 24
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

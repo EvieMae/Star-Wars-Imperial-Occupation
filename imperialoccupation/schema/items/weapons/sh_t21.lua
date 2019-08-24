@@ -1,0 +1,11 @@
+ITEM.name = "T-21"
+ITEM.model = Model("models/weapons/synbf3/w_t21.mdl")
+ITEM.description = "A fast firing light machine gun, typically used by imperial forces."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 60000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_t21"

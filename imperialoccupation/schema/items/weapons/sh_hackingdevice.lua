@@ -1,0 +1,11 @@
+ITEM.name = "Hacking Device"
+ITEM.model = Model("models/inside/iiphone5.mdl")
+ITEM.description = "A small pocket-sized device used for hacking various other devices."
+ITEM.category = "Utility"
+ITEM.width = 1 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 1
+ITEM.flag = "a"
+ITEM.price = 8000
+ITEM.weight = 1
+ITEM.weaponCategory = "phone"
+ITEM.class = "weapon_hack_phone"

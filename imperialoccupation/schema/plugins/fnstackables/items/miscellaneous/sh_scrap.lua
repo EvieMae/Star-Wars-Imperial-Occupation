@@ -1,0 +1,12 @@
+ITEM.name = "Scrap Metal"
+ITEM.model = ("models/props_c17/TrapPropeller_Engine.mdl")
+ITEM.description = "A pile of scrap metal."
+ITEM.price = 100
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 1.5

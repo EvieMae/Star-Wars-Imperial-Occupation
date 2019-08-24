@@ -1,0 +1,11 @@
+ITEM.name = "Purple Umbaran Rifle"
+ITEM.model = Model("models/servius/starwars/cwa2/umbaran_purple_rifle.mdl")
+ITEM.description = "An advanced version of a blaster rifle, made by the Umbarans. Typically hits harder than any normal rifles."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 100000
+ITEM.weight = 1
+ITEM.weaponCategory = "Primary"
+ITEM.class = "tfa_umbaran_purple"

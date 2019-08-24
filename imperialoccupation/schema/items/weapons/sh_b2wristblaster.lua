@@ -1,0 +1,11 @@
+ITEM.name = "B-2 Wrist Blaster"
+ITEM.model = Model("models/weapons/w_e5.mdl")
+ITEM.description = "The standard built-in weapon for B-2 Battledroids."
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 0
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "b2_wrist_blaster"

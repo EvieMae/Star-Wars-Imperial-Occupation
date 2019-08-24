@@ -1,0 +1,11 @@
+ITEM.name = "Wester LE"
+ITEM.model = Model("models/weapons/w_westar34.mdl")
+ITEM.description = "The Westar name, now in a small package. Excels in close range combat"
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 8000
+ITEM.weight = 1
+ITEM.weaponCategory = "Secondary"
+ITEM.class = "tfa_752_westar34"

@@ -1,0 +1,9 @@
+ITEM.name = "Blueprint: DC-15S"
+ITEM.model = Model("models/props_lab/clipboard.mdl")
+ITEM.description = "A blueprint to build a DC-15S"
+ITEM.category = "Recipes"
+ITEM.flag = "a"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.blueprint = "dc15s"
+ITEM.price = 5000

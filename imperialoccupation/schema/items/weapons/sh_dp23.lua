@@ -1,0 +1,11 @@
+ITEM.name = "DP-23"
+ITEM.model = Model("models/bf2017/w_e11.mdl")
+ITEM.description = "A shotgun blaster. Packs quite a punch for something so old."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 40000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_dp23"

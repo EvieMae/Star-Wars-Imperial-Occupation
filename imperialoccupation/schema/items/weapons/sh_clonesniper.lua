@@ -1,0 +1,11 @@
+ITEM.name = "Clone Sniper"
+ITEM.model = Model("models/swbf3/rep/sniperrifle.mdl")
+ITEM.description = "Primary sniper rifle of the former clone army. Well known for its reliability and accuracy."
+ITEM.category = "Weapons"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 80000
+ITEM.weight = 3
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_sw_repsnip"

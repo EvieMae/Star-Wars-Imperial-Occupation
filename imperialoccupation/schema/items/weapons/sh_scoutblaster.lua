@@ -1,0 +1,11 @@
+ITEM.name = "Scout Blaster"
+ITEM.model = Model("models/weapons/synbf3/w_scoutblaster.mdl")
+ITEM.description = "Sidearm of the scout trooper. A powerful pistol in a very small package"
+ITEM.category = "Weapons"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 0
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_scoutblaster_extended"

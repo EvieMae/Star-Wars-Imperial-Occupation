@@ -1,0 +1,11 @@
+ITEM.name = "RT-97"
+ITEM.model = Model("models/weapons/synbf3/w_rt97c.mdl")
+ITEM.description = "A popular weapon amongst resistance heavies. Capable of easily standing up against anything that it might come against."
+ITEM.category = "Weapons"
+ITEM.width = 4 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 90000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_rt97"

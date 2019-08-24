@@ -1,0 +1,11 @@
+ITEM.name = "DLT-19"
+ITEM.model = Model("models/bf2017/w_dlt19.mdl")
+ITEM.description = "A strange version of the DLT-19, which focuses the magazine down into 5 very powerful shots. Can pierce through almost anything."
+ITEM.category = "Weapons"
+ITEM.width = 4 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 64000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_dlt19"

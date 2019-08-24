@@ -1,0 +1,11 @@
+ITEM.name = "RT-97c"
+ITEM.model = Model("models/sw_battlefront/weapons/rt97c_heavy_rifle.mdl")
+ITEM.description = "A popular weapon amongst resistance heavies. Capable of easily standing up against anything that it might come against."
+ITEM.category = "Weapons"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 2000000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_rt97c_extended"

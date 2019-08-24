@@ -1,0 +1,16 @@
+ITEM.name = "Big Fucking Ham"
+ITEM.model = "models/neeewpackofprops/food35.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "A large slab of meat. A meal consumed by royalty"
+ITEM.healAmount = 10
+ITEM.healSeconds = 3
+ITEM.category = "Food"
+ITEM.price = 240
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

@@ -1,0 +1,11 @@
+ITEM.name = "LL-30"
+ITEM.model = Model("models/weapons/w_LL30.mdl")
+ITEM.description = "A more refined version of the security pistol. With a scope and more firepower"
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 3200
+ITEM.weight = 1
+ITEM.weaponCategory = "secondary"
+ITEM.class = "tfa_swch_ll30"

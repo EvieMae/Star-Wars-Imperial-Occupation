@@ -1,0 +1,11 @@
+ITEM.name = "Z-6 Rotary Cannon - White"
+ITEM.model = Model("models/sw_battlefront/weapons/z6_rotary_cannon.mdl")
+ITEM.description = "The heaviest portable weapon in the clone armies arsenal. Capable of unleashing incomparable amounts of damage. This one fires white shots."
+ITEM.category = "Weapons"
+ITEM.width = 5 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 130000
+ITEM.weight = 8
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_swch_z6_white"

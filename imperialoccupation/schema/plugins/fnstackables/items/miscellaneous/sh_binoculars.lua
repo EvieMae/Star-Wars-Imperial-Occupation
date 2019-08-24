@@ -1,0 +1,12 @@
+ITEM.name = "Binoculars"
+ITEM.model = ("models/bin.mdl")
+ITEM.description = "Standard binoculars used by most Stalkers within The Zone. Standard equipment for anyone with an interest in seeing further than the naked eye permits."
+ITEM.price = 3500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 1.5

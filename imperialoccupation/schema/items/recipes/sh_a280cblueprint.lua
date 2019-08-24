@@ -1,0 +1,9 @@
+ITEM.name = "Blueprint: A280c"
+ITEM.model = Model("models/props_lab/clipboard.mdl")
+ITEM.description = "A blueprint to build an A280c"
+ITEM.category = "Recipes"
+ITEM.flag = "a"
+ITEM.width = 1 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 1
+ITEM.blueprint = "a280c"
+ITEM.price = 12000

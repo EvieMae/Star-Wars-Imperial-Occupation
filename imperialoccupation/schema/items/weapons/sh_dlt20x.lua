@@ -1,0 +1,11 @@
+ITEM.name = "DLT-20X"
+ITEM.model = Model("models/weapons/synbf3/w_dlt20a.mdl")
+ITEM.description = "An older rifle thats been in production since before the war. Commonly sold, although typically only available to organized forces such as the police or military forces."
+ITEM.category = "Weapons"
+ITEM.width = 4 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 72000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_dlt20x"

@@ -1,0 +1,16 @@
+ITEM.name = "Rice"
+ITEM.model = "models/neeewpackofprops/food37.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Highly abundant crop of Corellia."
+ITEM.healAmount = 2
+ITEM.healSeconds = 3
+ITEM.category = "Food"
+ITEM.price = 6
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 20
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.03

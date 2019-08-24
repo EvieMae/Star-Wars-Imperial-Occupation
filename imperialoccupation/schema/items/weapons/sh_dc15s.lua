@@ -1,0 +1,11 @@
+ITEM.name = "DC-15S"
+ITEM.model = Model("models/bf2017/w_e11.mdl")
+ITEM.description = "The smaller, faster firing variant of the DC-15a. While the rounds might do less damage, it's overall more effective if you can hit accurately."
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 48000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_dc15s"

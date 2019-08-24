@@ -1,0 +1,16 @@
+ITEM.name = "Raw Meat"
+ITEM.model = "models/neeewpackofprops/food32.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Raw meat that needs to be cooked and is off if not."
+ITEM.healAmount = 1
+ITEM.healSeconds = 1
+ITEM.category = "Food"
+ITEM.price = 15
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 10
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

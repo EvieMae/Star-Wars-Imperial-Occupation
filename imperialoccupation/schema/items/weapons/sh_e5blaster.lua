@@ -1,0 +1,11 @@
+ITEM.name = "E-5 Blaster Rifle"
+ITEM.model = Model("models/weapons/w_e5.mdl")
+ITEM.description = "The former CIS standard firearm for the B1 Battledroids. Not much use to them now, is it?"
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 48000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_swch_e5"

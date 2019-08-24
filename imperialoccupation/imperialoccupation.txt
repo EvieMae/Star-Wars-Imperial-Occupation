@@ -1,0 +1,8 @@
+
+"imperialoccupation"
+{
+	"base" 			"helix"
+	"title" 		"Imperial Occupation"
+	"author" 		"Clayworks"
+	"menusystem"	"1"
+}

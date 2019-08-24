@@ -1,0 +1,11 @@
+ITEM.name = "Handcuffs"
+ITEM.model = Model("models/props_lab/box01a.mdl")
+ITEM.description = "Typical Handcuffs for everyday policing."
+ITEM.category = "Weapons"
+ITEM.width = 1 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 1
+ITEM.flag = "a"
+ITEM.price = 1500
+ITEM.weight = 1
+ITEM.weaponCategory = "handcuffs"
+ITEM.class = "weapon_cuff_elastic"

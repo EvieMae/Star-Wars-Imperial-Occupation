@@ -1,0 +1,11 @@
+ITEM.name = "Clone Shotgun"
+ITEM.model = Model("models/swbf3/rep/shotgun.mdl")
+ITEM.description = "The standard shotgun for the former clone army. Packs quite a punch for something so old."
+ITEM.category = "Weapons"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 40000
+ITEM.weight = 3
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_sw_repshot"

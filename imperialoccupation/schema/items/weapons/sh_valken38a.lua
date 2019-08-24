@@ -1,0 +1,11 @@
+ITEM.name = "Valken-38A"
+ITEM.model = Model("models/bf2017/w_dlt19.mdl")
+ITEM.description = "The smaller, faster firing variant of the Valken. While the rounds might do less damage, it's overall more effective if you can hit accurately."
+ITEM.category = "Weapons"
+ITEM.width = 3 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 50000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_valken38a"

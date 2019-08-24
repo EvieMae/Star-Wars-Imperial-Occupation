@@ -1,0 +1,15 @@
+ITEM.name = "Assault Ammo x30"
+ITEM.model = "models/neeewpackofprops/drug1.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.ammo = "ar2" // type of the ammo
+ITEM.description = "Ammo for the assault weapon."
+ITEM.category = "Ammunition"
+ITEM.price = 80
+ITEM.flag = "a"
+ITEM.basequantity = 30
+ITEM.quantity = 30
+ITEM.maxQuantity = 150
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.016

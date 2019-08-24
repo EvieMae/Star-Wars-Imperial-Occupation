@@ -1,0 +1,11 @@
+ITEM.name = "Rebel Pilot Pistol"
+ITEM.model = Model("models/weapons/w_dc15sa.mdl")
+ITEM.description = "The pistol of choice for resistance pilots. Light and fits nicely in a flightsuit's pocket."
+ITEM.category = "Weapons"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 2400
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_rebelpilotpistol"

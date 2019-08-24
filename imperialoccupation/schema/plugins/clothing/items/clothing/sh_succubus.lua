@@ -1,0 +1,16 @@
+ITEM.name = "Succubus Outfit"
+ITEM.description = "An outfit tailored for a Twi’Lek"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.model = "models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_safeboxes_screen.mdl"
+ITEM.category = "Clothing"
+ITEM.price = 0
+ITEM.flag = "a"
+ITEM.playermodel = "models/helios/talon2.mdl"
+ITEM.ismodel = true
+ITEM.bgnames = {}
+ITEM.bgy = 0
+ITEM.models = {}
+ITEM.weight = 1
+ITEM.ap = 40
+ITEM.isClothing = true

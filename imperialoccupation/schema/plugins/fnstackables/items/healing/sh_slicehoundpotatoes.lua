@@ -1,0 +1,16 @@
+ITEM.name = "Slicehound and Potatoes"
+ITEM.model = "models/neeewpackofprops/food5.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "This is a very apatizing meal made by anyone with a cooking station. Take some Slicehound meat and potatoes and cook them with seasonings of your choice."
+ITEM.healAmount = 8
+ITEM.healSeconds = 3
+ITEM.category = "Food"
+ITEM.price = 80
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

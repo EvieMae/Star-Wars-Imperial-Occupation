@@ -1,0 +1,11 @@
+ITEM.name = "E-11"
+ITEM.model = Model("models/bf2017/w_e11.mdl")
+ITEM.description = "A Suppressed variant of the E-11, used by Imperial elite. packs a bit more of a punch."
+ITEM.category = "Weapons"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 20000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_bf2019_e11"

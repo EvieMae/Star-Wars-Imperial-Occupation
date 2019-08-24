@@ -1,0 +1,11 @@
+ITEM.name = "Relby-V10"
+ITEM.model = Model("models/swbf3/outerrim/weapons/relby-v10.mdl")
+ITEM.description = "A blaster rifle, available to almost anyone accross the galaxy"
+ITEM.category = "Weapons"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 48000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_relby"

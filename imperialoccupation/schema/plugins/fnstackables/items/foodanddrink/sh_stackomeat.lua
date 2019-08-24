@@ -1,0 +1,16 @@
+ITEM.name = "Stack O' Meat"
+ITEM.model = "models/neeewpackofprops/food10.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "An assortment of meats, who knows what you're really eating."
+ITEM.hungerAmount = 420
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 170
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

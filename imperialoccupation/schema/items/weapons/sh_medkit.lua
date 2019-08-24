@@ -1,0 +1,11 @@
+ITEM.name = "Medical Kit"
+ITEM.model = Model("models/items/healthkit.mdl")
+ITEM.description = "A fully setup medical kit for healing your allies. Or enemies, if you're an idiot."
+ITEM.category = "Weapons"
+ITEM.width = 1 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 1
+ITEM.flag = "a"
+ITEM.price = 5000
+ITEM.weight = 1
+ITEM.weaponCategory = "medical"
+ITEM.class = "improved_medkit"

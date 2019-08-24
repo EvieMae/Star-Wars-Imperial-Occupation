@@ -1,0 +1,11 @@
+ITEM.name = "DLT-19 Extended"
+ITEM.model = Model("models/bf2017/w_dlt19.mdl")
+ITEM.description = "A powerful rapid fire LMG commonly used by imperial forces, although it can be found almost anywhere."
+ITEM.category = "Weapons"
+ITEM.width = 4 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.flag = "a"
+ITEM.price = 64000
+ITEM.weight = 1
+ITEM.weaponCategory = "primary"
+ITEM.class = "tfa_dlt19_extended"

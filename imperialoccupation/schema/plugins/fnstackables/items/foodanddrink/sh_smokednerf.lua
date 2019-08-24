@@ -1,0 +1,16 @@
+ITEM.name = "Smoked Nerf"
+ITEM.model = "models/neeewpackofprops/food36.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Meat from a large animal. Particularly filling."
+ITEM.hungerAmount = 240
+ITEM.thirstAmount = 0
+ITEM.category = "Food"
+ITEM.price = 70
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.05

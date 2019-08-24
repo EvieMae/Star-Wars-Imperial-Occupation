@@ -1,0 +1,9 @@
+ITEM.name = "Recipe: Ground Meat"
+ITEM.model = Model("models/props_lab/clipboard.mdl")
+ITEM.description = "A recipe that explains the proper methods and tools for grinding up meat."
+ITEM.category = "Recipes"
+ITEM.flag = "a"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.blueprint = "groundmeat"
+ITEM.price = 3000

@@ -1,0 +1,16 @@
+ITEM.name = "Large Health Kit"
+ITEM.model = "models/neeewpackofprops/food4.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Heals up to 75 Percent"
+ITEM.healAmount = 12.5
+ITEM.healSeconds = 6
+ITEM.category = "Medical"
+ITEM.price = 150
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.03

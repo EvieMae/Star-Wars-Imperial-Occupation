@@ -1,0 +1,16 @@
+ITEM.name = "Narco-Mist"
+ITEM.model = "models/neeewpackofprops/drug9.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Medicinal spray that would go on injury to reduce healing time"
+ITEM.healAmount = 3
+ITEM.healSeconds = 15
+ITEM.category = "Medical"
+ITEM.price = 100
+ITEM.flag = "a"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 20
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.03

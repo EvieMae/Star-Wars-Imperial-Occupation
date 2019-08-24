@@ -1,0 +1,12 @@
+ITEM.name = "Tools"
+ITEM.model = ("models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_cargo.mdl")
+ITEM.description = "Set of tools used for various purposes."
+ITEM.price = 150
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 1.5
